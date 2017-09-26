@@ -1,0 +1,19 @@
+                         ** **
+  ***                  **** ****
+   ***                 *********                **
+    ***                *********              **      
+******************************************************
+******************************************************
+*************** Welcome to Battleship! ***************
+     ********************************************     
+           ********************************           
+
+1. This is a two-player game.
+2. Player #1 is you. Player #2 is the computer.
+3. The objective of the game is to sink all ships in your enemy's fleet.
+   The Player to sink his/her enemy's fleet first wins. Both players'
+   fleets consist of 5 ships that are hidden from the enemy. 
+   Each ship may be differentiated by its "size" (besides the Cruiser 
+   and Submarine) or number of cells it expands on the game board. 
+   The Carrier has 5 cells, Battleship has 4 cells, Cruiser has 3 
+   cells, Submarine has 3 cells, and the Destroyer has 2 cells.
